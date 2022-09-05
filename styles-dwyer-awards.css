@@ -1,0 +1,42 @@
+body {
+	background-image: url("background-ag.jpg");
+	/* Background image by Andy Goldstein */
+	
+	background-repeat: no-repeat;
+	
+	background-size: cover;
+	
+	text-align: center;
+	
+	font-family: 'Titillium Web', sans-serif;
+	
+	color: mediumaquamarine;
+}
+
+p {
+	width: 50%;
+	text-align: justify;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h1 {
+	text-decoration: overline underline;
+	font-style: oblique;
+}
+
+h2 {
+    color: mediumspringgreen;
+}
+
+img {
+	border-color: mediumaquamarine;
+	border-style: inset;
+	border-width: 4px;
+}
+
+.name {
+	border-style: inset;
+	border-color:aquamarine;
+	width: 50%;
+}
