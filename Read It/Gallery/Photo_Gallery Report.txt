@@ -1,0 +1,86 @@
+Movie Report
+-------------
+FrameFrame #    Frame Bytes    Total Bytes    Page
+------------    -----------    -----------    ---------------
+    1         25078          25078        Scene 1
+
+Page                       Shape Bytes    Text Bytes
+-----------------------    -----------    ----------
+Scene 1                          64           130
+
+Page                       Symbol Bytes    Text Bytes
+-----------------------    ------------    ----------
+mymask                           37             0
+emptyclip                         0             0
+animate_mask                      0             0
+fsb_DownArrow                     0             0
+fsb_downArrow                     0             0
+fsb_downArrow_face                0             0
+fsb_downArrow_arrow              46             0
+fsb_downArrow_leftIn              0             0
+fsb_downArrow_rightIn             0             0
+fsb_downArrow_rightOut            0             0
+fsb_downArrow_leftOut             0             0
+fsb_downArrow_press               0             0
+fsb_downArrow_press_leftOut        0             0
+fsb_downArrow_press_rightOut        0             0
+fsb_downArrow_press_rightIn        0             0
+fsb_downArrow_press_leftIn        0             0
+fsb_downArrow_press_face          0             0
+fsb_downArrow_press_arrow        50             0
+fsb_downArrow_disabled            0             0
+fsb_downArrow_disabled_leftOut        0             0
+fsb_downArrow_disabled_rightOut        0             0
+fsb_downArrow_disabled_leftIn        0             0
+fsb_downArrow_disabled_rightIn        0             0
+fsb_downArrow_disabled_face        0             0
+fsb_downArrow_disabled_arrow       47             0
+fsb_ScrollThumb                   0             0
+fsb_thumb_top                     0             0
+fsb_thumb_top_leftOut            37             0
+fsb_thumb_top_rightOut            0             0
+fsb_thumb_top_leftIn              0             0
+fsb_thumb_top_rightIn             0             0
+fsb_thumb_middle                  0             0
+fsb_thumb_mid_leftOut             0             0
+fsb_thumb_mid_rightOut            0             0
+fsb_thumb_mid_rightIn            36             0
+fsb_thumb_mid_face                0             0
+fsb_thumb_mid_leftIn              0             0
+fsb_thumb_bottom                  0             0
+fsb_thumb_bottom_rightIn          0             0
+fsb_thumb_bottom_rightOut        38             0
+fsb_thumb_bottom_leftOut         30             0
+fsb_UpArrow                       0             0
+fsb_upArrow                       0             0
+fsb_upArrow_face                  0             0
+fsb_upArrow_arrow                45             0
+fsb_upArrow_leftIn                0             0
+fsb_upArrow_rightIn               0             0
+fsb_upArrow_rightOut              0             0
+fsb_upArrow_leftOut               0             0
+fsb_upArrow_press                 0             0
+fsb_upArrow_press_leftOut         0             0
+fsb_upArrow_press_rightOut        0             0
+fsb_upArrow_press_rightIn        39             0
+fsb_upArrow_press_leftIn         38             0
+fsb_upArrow_press_face           34             0
+fsb_upArrow_press_arrow          50             0
+fsb_upArrow_disabled              0             0
+fsb_upArrow_disabled_leftOut       39             0
+fsb_upArrow_disabled_rightOut       39             0
+fsb_upArrow_disabled_leftIn       38             0
+fsb_upArrow_disabled_rightIn       39             0
+fsb_upArrow_disabled_face        42             0
+fsb_upArrow_disabled_arrow       47             0
+FUIComponent                      0             0
+Component Version                 0             0
+ ScrollBar                        0             0
+fsb_ScrollTrack                   0             0
+ scrollTrack                     37             0
+
+
+Sound name                 Bytes        Format    
+-----------------------    ---------    ----------
+Verdana                        22        
+Verdana Bold                   22        
